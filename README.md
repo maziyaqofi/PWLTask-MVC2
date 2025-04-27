@@ -2,7 +2,8 @@
 Contoh pengaplikasian MVC menggunakan native PHP secara sederhana.
 Awali dengan composer update
 
-Pada versi ini, digunakan style psr4 untuk autoloading.
+Pada versi ini, digu                         
+      nakan style psr4 untuk autoloading.      
 
 Dalam contoh ini tidak ada routing controller melalui address bar, melainkan menggunakan query browser biasa.
 

@@ -36,7 +36,7 @@
         <?php endforeach; ?>
       </tbody>
     </table>
-    <a href="index.php" class="btn btn-primary">Kembali</a>
+    <a href="index.php?act=home">Kembali</a>
   </div>
 </body>
 </html>
